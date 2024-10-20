@@ -1,0 +1,10 @@
+### Resources
+- [Error detection and correction in data link layer](https://www.tutorialspoint.com/error-detection-and-correction-in-data-link-layer)
+- [Simple parity check(with example)](https://www.gatevidyalay.com/parity-check-parity-bit-error-detection/)
+- [CRC with example(video)(hindi)](https://youtu.be/5Q-Yv6_0Qcw)
+- [CRC(with example)](https://www.gatevidyalay.com/cyclic-redundancy-check-crc-error-detection/)
+- [Checksum(video)](https://youtu.be/AtVWnyDDaDI)
+- [Checksum(with example)](https://www.gatevidyalay.com/checksum-checksum-example-error-detection/)
+- [Hamming code error detection(video)](https://youtu.be/1A_NcXxdoCc)
+- [Hamming code error correction(video)](https://youtu.be/wbH2VxzmoZk)
+- [Hamming code(with example)](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
